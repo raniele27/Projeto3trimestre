@@ -14,7 +14,7 @@ footer p{
     height:2rem;
     margin-top: 0,5rem;
     font-family: Bai Jamjuree;
-    /* código omitido */
+}
 
 #container {
     display: flex;
@@ -24,7 +24,7 @@ footer p{
     margin: 1rem 1rem;
 }
 
-/* código omitido */
 
 
-}
+
+
