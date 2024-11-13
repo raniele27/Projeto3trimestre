@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Matematica',
+    ' Quantas casas decimais tem o número pi??',
+    'infinitas'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quimica',
+    ' Atualmente, quantos elementos químicos a tabela periódica possui??',
+    '118'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Educação fisica',
+    'Qual o número mínimo de jogadores em cada time numa partida de futebol??',
+    '7'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Geogeofia',
+    'Qual a montanha mais alta do Brasil?',
+    'Pico da Neblina'
 )
